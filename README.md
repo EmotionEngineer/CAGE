@@ -2,6 +2,7 @@
 
 ## Overview
 CAGE is an interactive web application built with Streamlit that leverages machine learning to classify text by gender and country. This project includes text preprocessing, tokenization, and the use of pre-trained BERT models for prediction.
+
 ![Gender Prediction](/Demo/demo1.jpg)
 ![Country Prediction](/Demo/demo2.jpg)
 
