@@ -36,6 +36,8 @@ To run the application locally, follow these steps:
 Learn more about how the models were trained on Kaggle:
 - [Gender by Text Explainer](https://www.kaggle.com/code/arpeccop/gender-by-text-explainer)
 - [Country by Tweet Explainer](https://www.kaggle.com/code/arpeccop/country-by-tweet-explainer)
+- [Gender by Text Catboost](https://www.kaggle.com/code/arpeccop/gender-by-text-catboost)
+- [Country by Text Catboost](https://www.kaggle.com/code/arpeccop/country-by-text-catboost)
 
 ## Technologies
 - Streamlit
